@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Compliance Solutions OSHA Painter Kit",
+    "slug": "compliance-solutions-painter-kit",
+    "description": "All-in-one compliance bundle tailored for commercial painters, including PPE, SDS binders, and training guides.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/compliance-solutions-painter-kit.jpg",
+    "target_audience_match": "Designed for stressed-out painting contractors who need a grab-and-go solution that inspectors actually approve.",
+    "price": "From $189",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Seton OSHA Painter Safety Starter Pack",
+    "slug": "seton-painter-safety-pack",
+    "description": "Essential OSHA-compliant gear and documentation perfect for small crews or new hires.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/seton-painter-safety-pack.jpg",
+    "target_audience_match": "Perfect for growing teams or overwhelmed subs trying to meet safety rules without red tape.",
+    "price": "From $129",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "J. J. Keller Painter Compliance Kit",
+    "slug": "jj-keller-painter-kit",
+    "description": "Trusted compliance pack with documentation, labels, and inspection forms used by major contractors.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/jj-keller-painter-kit.jpg",
+    "target_audience_match": "Ideal for pros who want bulletproof compliance and a reputation for jobsite safety leadership.",
+    "price": "From $249",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Grainger Paint Safety Compliance Kit",
+    "slug": "grainger-paint-safety-kit",
+    "description": "Highly customizable OSHA-compliant kit with industrial-grade PPE and spill control.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/grainger-paint-safety-kit.jpg",
+    "target_audience_match": "Best for large jobsite crews who need rugged compliance gear and serious spill protection.",
+    "price": "From $275",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Safety Services Company Painter Compliance Pack",
+    "slug": "safety-services-painter-pack",
+    "description": "OSHA-certified training and compliance documents with optional PPE kits sent to your site.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/safety-services-painter-pack.jpg",
+    "target_audience_match": "Great for contractors managing multiple job sites who need fast training and certifications, minus the admin headache.",
+    "price": "From $99/mo",
+    "data-link": "pending"
+  }
+]
