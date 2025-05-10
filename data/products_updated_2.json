@@ -1,0 +1,52 @@
+[
+  {
+    "position": 1,
+    "name": "Medique 3-Shelf Industrial First Aid Cabinet",
+    "slug": "medique-industrial-kit",
+    "description": "Wall-mountable OSHA-compliant kit with 1,000+ supplies for HVAC shop or truck.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/medique-industrial-kit.jpg",
+    "target_audience_match": "Perfect for HVAC crews who need full-scale compliance and inventory in the shop or on the move.",
+    "price": "From $119",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "First Aid Only 25-Person Contractor\u2019s Kit",
+    "slug": "first-aid-contractor-kit",
+    "description": "Compact and jobsite-ready OSHA kit for smaller HVAC teams.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/firstaidonly-50person.jpg",
+    "target_audience_match": "Ideal for HVAC techs handling installs or service calls who want a simple, compliant kit in every truck.",
+    "price": "From $34",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Klein Tools PPE Safety Starter Kit",
+    "slug": "klein-ppe-kit",
+    "description": "PPE-focused kit with safety glasses, gloves, respirator \u2014 HVAC-ready protection.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/klein-tools-ppe.jpg",
+    "target_audience_match": "For HVAC techs who already have first aid handled but need OSHA-ready PPE gear they can trust.",
+    "price": "From $59",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "Surviveware Small First Aid Kit",
+    "slug": "surviveware-field-kit",
+    "description": "Rugged and portable first aid kit with OSHA-aligned components.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/surviveware-field-kit.jpg",
+    "target_audience_match": "Best for mobile HVAC techs working rooftops, attics, or crawlspaces who need fast access and reliability.",
+    "price": "From $39",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "North by Honeywell First Aid Refill Pack (OSHA Class B)",
+    "slug": "honeywell-class-b-refill",
+    "description": "Keep your HVAC kits OSHA-compliant with ready-to-use refills.",
+    "image": "https://res.cloudinary.com/dhfbsqfxr/image/upload/honeywell-class-b-refill.jpg",
+    "target_audience_match": "For HVAC leads making sure truck kits stay compliant without restocking headaches.",
+    "price": "From $29",
+    "data-link": "pending"
+  }
+]
